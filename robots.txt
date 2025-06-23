@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zaidsutar2151.github.io/Portfolio/sitemap.xml
